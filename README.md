@@ -1,1 +1,5 @@
-# AIR-TRAINER-1.0
+# JEE AI Platform 🚀
+
+Run:
+npm install
+npm run dev
